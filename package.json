@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  },
+  "name": "xenapi",
+  "description": "REST API for Xen Orchestra",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nightcrawler086/xenapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nightcrawler086/xenapi/issues"
+  },
+  "homepage": "https://github.com/nightcrawler086/xenapi#readme"
+}
