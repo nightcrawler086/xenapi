@@ -2,7 +2,7 @@ const express = require('express')
 const morgan = require('morgan')
 const app = express()
 const port = 3000
-var morgarn = require('morgan')
+var morgan = require('morgan')
 
 app.use(morgan('short'))
 
